@@ -5,7 +5,7 @@
 
 Super tiny RESTful API example in vanilla [nodejs](http://nodejs.org/)  
 
-One file, just over a hundred line of code, zero dependencies, a single module require (http, duh!), get and post handling at `/`, error handling for all the rest, and a pizza favicon for good measure.
+One file, just under a hundred line of code, zero dependencies, a single module require (http, duh!), get and post handling at `/`, error handling for all the rest, and a pizza favicon for good measure.
 
 Not fit for production :scream_cat:
 
