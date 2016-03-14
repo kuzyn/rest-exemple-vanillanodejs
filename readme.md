@@ -11,7 +11,7 @@ Not fit for production :scream_cat:
 
 ## Deploy
 
-Well, that's a pretty basic piece of :cake:
+Well, that's a pretty basic:
 
 ```bash
 $ node app.js
